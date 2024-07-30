@@ -1,0 +1,67 @@
+*{
+    font-family: "Urbanist", sans-serif;
+  }
+
+.yo{
+    border-radius: 40%;
+}
+
+header{
+    background-color: #ffdef03e;
+}
+
+header span{
+    color: #52334a;
+    font-weight: bold;
+}
+
+.nav-item a{
+    color: #D63484;
+}
+
+.nav-item a:hover{
+    color: #FF9BD2;
+}
+
+#nav-button{
+    background-color: #FF9BD2;
+}
+
+.sobremi h1{
+    color: #7f386f;
+}
+
+h2, h3{
+    color: #52334a;
+    font-weight: 500;
+}
+
+#button1{
+    background-color: #D63484;
+    color: white;
+}
+
+#paragraph1{
+    width: auto;
+    height: auto;
+}
+
+#skills{
+    color: #D63484;
+}
+
+.img-proyecto1{
+    background-image: url(images/pinterest-clone.jpeg);
+    background-size: 650px;
+    background-repeat: no-repeat;
+}
+
+.display-6{
+    color: #D63484;
+}
+
+h5{
+    color: #cc83ab;
+    font-size: 25px;
+}
+
