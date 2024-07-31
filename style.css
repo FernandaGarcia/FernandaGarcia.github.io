@@ -51,9 +51,9 @@ h2, h3{
 }
 
 .img-proyecto1{
-    background-image: url(images/pinterest-clone.jpeg);
     background-size: 650px;
     background-repeat: no-repeat;
+    width: 100%;
 }
 
 .display-6{
@@ -61,7 +61,29 @@ h2, h3{
 }
 
 h5{
-    color: #cc83ab;
+    color: #fbd7eb;
     font-size: 25px;
 }
 
+#container1{
+    background-color: hsl(330, 69%, 78%);
+}
+
+.bi{
+    color: #7f386f;
+}
+#footer{
+    background-color: #f9b9dc3e;
+}
+
+.pb-3{
+    padding-bottom: 1rem;
+}
+
+.pb-5{
+    padding-bottom: 3rem;
+}
+
+  div {
+    text-align:justify;
+  }
