@@ -27,8 +27,8 @@ header span{
     background-color: #FF9BD2;
 }
 
-.sobremi h1{
-    color: #7f386f;
+h1{
+    color: #c840a9;
 }
 
 h2, h3{
@@ -86,4 +86,8 @@ h5{
 
   div {
     text-align:justify;
+  }
+
+  #app{
+    color: #b7226d;
   }
